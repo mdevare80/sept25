@@ -1,8 +1,8 @@
 import java.util.*;
 
-public class A
+public class A  // this is starting of java class 
 {
-public static void main(String args[])
+public static void main(String args[]) // this is main function
 {
 int a;
 
