@@ -1,6 +1,7 @@
 import java.util.*;
 
-
+made some alterations
+\
 // this ADDED
 public class A  // this is starting of java class 
 {
