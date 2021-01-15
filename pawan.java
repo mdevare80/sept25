@@ -4,6 +4,9 @@ import java.io.*;
 
 import java.io.BufferedReader;
 
+/**
+ * This is a comment by Pawan
+ */
 class DDIMMST {
     static class Edge {
         int U;
