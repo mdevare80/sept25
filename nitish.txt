@@ -1,0 +1,1 @@
+This is a simple text file added to modify the contents of this repository for the purposes of Devops Journal.
